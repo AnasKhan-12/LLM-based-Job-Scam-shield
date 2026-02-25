@@ -132,10 +132,3 @@ npm start
 ```
 
 ---
-
-## 📬 Contact
-
-For inquiries or suggestions, reach out to [Salman Nawaz](https://github.com/SalmanNawaz921).
-
----
-
